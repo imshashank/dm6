@@ -8,7 +8,7 @@ all code is in the code6 folder and reports are in the report6 folder in pdf and
 
 ##Instructions
 
-###We created a the transactional vector which is in the file 'docs.pytext'. 
+###We created a the transactional vector which is in the file 'docs.txt'. 
 ===========================================================================================================================
 
 Part 1:
@@ -55,6 +55,8 @@ A simple way to do all above is to use the below comman
 	3 is the support
 	50 is the confidence
 
+
+The files from 8 means where (k=8) are provided in file 0 to k.txt and labels from 0 to k_labels.txt
 ===========================================================================================================================
 Executing the Code:
 
@@ -68,8 +70,6 @@ To run apriori on docs.txt & labels.txt enter:
 To get the accuracy run:
 	make accuracy
 
-
-the default 'k' is 8 in makefile, the value can be changed by executing " python kmeans.py 'k' "
 
 To split and run tests run
 
@@ -87,7 +87,9 @@ This runs the following command:
 
 ===========================================================================================================================
 Contributions:
-Shashank Agarwal & Anurag Kalra both implemented the "apriori" classifiction rules generation and testing scripts. The work overlaps and is hard to be segregated.
+Shashank Agarwal & Anurag Kalra both implemented the "apriori" classification rules generation and testing scripts. The work overlaps and is hard to be segregated.
+
+P.S: The kmeans file have not been included as the feature matrix was very large and kmeans required a lot of files that have been submitted in previous projects.
 
 
 
