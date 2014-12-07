@@ -1,0 +1,8 @@
+body
+cpi head
+oney-fx head
+money-fx head
+money-supply head
+trade head
+dlr head
+lr head

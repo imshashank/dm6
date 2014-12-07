@@ -1,0 +1,7 @@
+body
+cpi head
+etail head
+jobs head
+gnp head
+trade head
+inventories head

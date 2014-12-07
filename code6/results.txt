@@ -1,0 +1,8 @@
+
+output_docs.txt_2.txttotal docs
+5721
+total Correct
+1641
+percentage 
+28.6837965391
+1.68162798882
