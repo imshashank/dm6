@@ -1,7 +1,10 @@
 Data Mining Project for CSE OSU CLass
 ===========
+
+This Ohio State data-mining exercise compares document classification with association rules and with cluster-specific rules. The original `code6` and `report6` folders contain the implementation and write-up.
+
 By
-Shashank Agarwal (agarwal.202@osu.edu)
+[Shashank Agarwal](https://www.linkedin.com/in/shashankagarwal2/) (agarwal.202@osu.edu)
 Anurag Kalra (kalra.25@osu.edu)
 
 all code is in the code6 folder and reports are in the report6 folder in pdf and docx format
